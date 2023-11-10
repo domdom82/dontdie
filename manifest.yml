@@ -4,3 +4,5 @@ applications:
     memory: 128M
     instances: 1
     path: .
+    health-check-type: process
+
